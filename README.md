@@ -428,6 +428,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [manhole](https://github.com/ionelmc/python-manhole) - Debug service that will accept unix domain socket connections and present the stacktraces for all threads and an interactive prompt.
     * [pyelftools](https://github.com/eliben/pyelftools) - Parsing and analyzing ELF files and DWARF debugging information.
     * [pyringe](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into Python processes.
+    * [timepy](https://github.com/daniil-omelchenko/timepy) - The simplest ever library for measuring ⏱ of Python code execution.
 
 ## Deep Learning
 
